@@ -7,6 +7,7 @@ msgid "Better a new friend than an old foe."
 msgstr ""
 
 #: /views/partials/format-visuals/websites.j2:7
+msgctxt "hihihihihi"
 msgid "People rejoice at the Sun, and I'm dreaming of the Moon."
 msgstr ""
 
