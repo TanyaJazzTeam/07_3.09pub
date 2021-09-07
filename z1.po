@@ -18,3 +18,12 @@ msgstr ""
 #: /views/partials/footer.j2:22
 msgid "Never stop dreaming."
 msgstr ""
+
+#: /content/amp-dev/documentation/guides-and-tutorials/learn/amp-caches-and-cors/_blueprint.yaml
+msgctxt "hihihihihi"
+msgid "Do not give up, the beginning is always the hardest."
+msgstr ""
+
+#: /views/partials/footer.j2:72
+msgid "It's easy to quit smoking. I've done it hundreds of times."
+msgstr ""
