@@ -9,3 +9,11 @@ msgstr ""
 #: /views/partials/format-visuals/websites.j2:7
 msgid "People rejoice at the Sun, and I'm dreaming of the Moon."
 msgstr ""
+
+#: /views/partials/format-visuals/websites.j2:6
+msgid "Love is never wrong."
+msgstr ""
+
+#: /views/partials/footer.j2:22
+msgid "Never stop dreaming."
+msgstr ""
